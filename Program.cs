@@ -14,7 +14,8 @@
             Harmonic harmonic = new Harmonic();
             harmonic.HarmonicNumber();
 
-
+            Factors factors = new Factors();    
+            factors.FactorsNumber();
             
 
         }
