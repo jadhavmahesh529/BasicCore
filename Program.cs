@@ -5,9 +5,11 @@
         static void Main(string[] args)
         {
             Flipcoin flipcoin = new Flipcoin();
+          flipcoin.FlipcoinNumber();
 
 
-            flipcoin.FlipcoinNumber();
+            Leapyear leapyear = new Leapyear();
+            leapyear.LeapyearNumber();
 
         }
     }
