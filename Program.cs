@@ -11,6 +11,12 @@
             Leapyear leapyear = new Leapyear();
             leapyear.LeapyearNumber();
 
+            Harmonic harmonic = new Harmonic();
+            harmonic.HarmonicNumber();
+
+
+            
+
         }
     }
 }
