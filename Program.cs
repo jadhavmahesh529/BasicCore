@@ -11,6 +11,9 @@
             Leapyear leapyear = new Leapyear();
             leapyear.LeapyearNumber();
 
+            Power power = new Power();
+            power.PowerNumber();
+
         }
     }
 }
